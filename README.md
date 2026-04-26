@@ -1,1 +1,1 @@
-This is the azure devops repo 
+This is the azure devops Pipeline file for website hosting.
